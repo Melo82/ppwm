@@ -58,6 +58,7 @@ successfully pair-programming beyond your office.
 - [github-auth](https://github.com/chrishunt/github-auth) SSH key management
   for Github users. Easily add/remove any Github user's public ssh keys.
 - [Google+ Hangouts](http://www.google.com/+/learnmore/hangouts/) have screen-sharing and remote desktop control capabilities with integrated audio and video chat.
+- [AnyDesk](http://anydesk.com/) Very fast (60FPS) screen sharing software with collaboration features (two mouse pointers). Free for personal use. No MacOS and VoIP support, yet.
 - [Screenhero](http://screenhero.com/) is a screen-sharing app for Mac/Windows,
   optimized for collaboration. It includes features like dual mouse pointers,
   so you can see what your pairing partner is pointing at.
